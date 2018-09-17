@@ -24,7 +24,7 @@ Kiswe iOS SDK
   s.homepage         = 'http://developer.kiswe.com/'
   s.license          = 'Private'
   s.author           = { 'Rodrigo Pacheco Curro' => 'rodrigo.pachecocurro@kiswe.com' }
-  s.source           = { :git => 'https://bitbucket.org/kiswe/kmsdk-ios-public.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Kiswe/KMSDK-iOS-Public-Frameworks.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.3'
 
